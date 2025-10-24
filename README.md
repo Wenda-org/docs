@@ -35,10 +35,10 @@ wenda/
 │   ├── README.md              # Project overview
 │   ├── report_english.pdf     # Project report (english version) for submission (20th)
 │   ├── report_portuguese.pdf  # Project report (portuguese version) for submission (20th)
-│   ├── architecture.md        # Diagrams and architecture explanation (pending)
-│   ├── api-design.md          # API structure and endpoints (pending)
-│   ├── data-model.md          # Data model and database schema (pending)
-│   ├── ml-models.md           # Description of ML models (pending)
+│   ├── deployment.md          # Describes how Wenda's machine learning system will be implemented and put into production (24th)
+│   ├── api-design.md          # API structure and endpoints
+│   ├── data-model.md          # Data model and database schema
+│   ├── machine-learning.md    # Machine Learning Project Documentation (24th)
 │   └── roadmap.md             # Development roadmap and milestones
 │
 ├── backend-core/              # Main backend (CRUD, authentication, public APIs)
