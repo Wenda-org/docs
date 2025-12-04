@@ -127,11 +127,11 @@ Wenda integrates multiple data sources to generate insights, forecasts, and reco
 
 * [x] Concept definition and architecture
 * [x] Tech stack planning
-* [ ] Data collection and structuring
-* [ ] Backend service development
-* [ ] Web dashboard prototype
-* [ ] Mobile app prototype
-* [ ] ML model training
+* [x] Data collection and structuring
+* [x] Backend service development
+* [x] Web dashboard prototype
+* [x] Mobile app prototype
+* [x] ML model training
 * [ ] Deployment and integration testing
 
 ---
